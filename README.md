@@ -1,5 +1,5 @@
 # 💫 About Me:
-why talk to humans when you can talk to computers
+Hello! My name is Long. I am a competitive programmer. I use C++ for CP. I like to build projects with Python. Feel free to check out my repo!
 
 
 ## 🌐 Socials:
